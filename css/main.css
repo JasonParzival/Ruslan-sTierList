@@ -13,16 +13,16 @@ section{
 }
 
 .logo {
-    width: 35%;
+    width: 45%;
 }
 
 .Header{
     background-color: rgb(0, 108, 220);
-    margin: 0 80pt;
+    margin: 0 10%;
     border: 1px solid black;
     border-radius: 1em;
     text-align: center;
-    padding: 20pt;
+    padding: 10pt;
 }
 
 img {
